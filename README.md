@@ -13,8 +13,7 @@
 | 1 | Bruna Yukimy Hada | RM 571836 |
 | 2 | Denize Ferrante | RM 571562 |
 | 3 | Gabriel Dias Menezes | RM 572395  |
-| 4 | Jeferson dos Santos Oliveira | RM 572594 |
-| 5 | Kayki Muran do Nascimento Yamauchi | RM572466 |
+| 4 | Kayki Muran do Nascimento Yamauchi | RM572466 |
 
 ---
 
