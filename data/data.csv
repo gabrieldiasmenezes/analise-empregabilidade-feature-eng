@@ -1,0 +1,105 @@
+ID,Hora de início,Hora de conclusão,Email,Nome,Hora da última modificação,Qual sua situação atual na área de tecnologia?,Qual é a sua principal formação atual?,Há quantos meses você estuda tecnologia ativamente? ,"De 1 a 5, qual o peso do DIPLOMA FACULDADE na sua contratação?","De 1 a 5, qual o peso de CURSOS EXTRAS/BOOTCAMPS na sua contratação?","Quantos projetos práticos você tem no seu portfólio (GitHub, Behance, etc.)","De 1 a 5, quanto você acredita que a IA aumentou a dificuldade de entrada?",Quantas vagas você já se candidatou nos últimos 3 meses?,Quantas entrevistas você conseguiu nos últimos 3 meses?,Você possui ou já possuiu um mentor na área?,"De 1 a 5, qual foi o impacto da mentoria na sua evolução?"
+1,3/23/26 12:54:03,3/23/26 12:55:52,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",12,4,3,7,4,20,0,,1
+2,3/23/26 12:54:46,3/23/26 12:56:28,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,3,4,0,2,0,0,,3
+3,3/23/26 12:53:55,3/23/26 13:00:13,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",44,3,3,9,2,2,2,,1
+4,3/23/26 13:00:54,3/23/26 13:02:05,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",36,1,1,75,4,0,0,,4
+5,3/23/26 13:02:31,3/23/26 13:03:47,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",3,4,4,0,2,9,0,,3
+6,3/23/26 13:01:14,3/23/26 13:04:43,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),2,5,2,1,4,1,1,,4
+7,3/23/26 13:04:02,3/23/26 13:04:56,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,5,5,5,2,3,2,,5
+8,3/23/26 13:08:53,3/23/26 13:11:22,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",42,4,4,6,3,0,0,,5
+9,3/23/26 13:12:49,3/23/26 13:14:58,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,5,4,12,1,4,3,,5
+10,3/23/26 13:39:33,3/23/26 13:41:04,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",48,3,2,2,4,0,2,,4
+11,3/23/26 13:44:53,3/23/26 13:46:35,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,4,1,0,2,15,2,,3
+12,3/23/26 13:49:23,3/23/26 13:51:21,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,5,3,2,1,0,0,,1
+13,3/23/26 13:56:32,3/23/26 13:57:46,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",2,4,3,1,3,16,4,,1
+14,3/23/26 14:04:43,3/23/26 14:08:32,anonymous,,,Formado (desempregado/buscando recolocação),Bootcamp / Curso Intensivo,36,2,3,4,3,5,1,,4
+15,3/23/26 14:16:05,3/23/26 14:17:52,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,4,2,0,2,0,0,,1
+16,3/23/26 14:21:54,3/23/26 14:23:43,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",30,4,2,10,3,20,0,,1
+17,3/23/26 14:24:57,3/23/26 14:26:24,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,5,3,1,4,2,0,,1
+18,3/23/26 14:37:33,3/23/26 14:39:16,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",15,2,1,2,4,10,1,,1
+19,3/23/26 16:19:11,3/23/26 16:20:43,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",12,5,5,20,2,50,5,,5
+20,3/23/26 17:35:48,3/23/26 17:36:49,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,1,4,2,1,0,0,,1
+21,3/23/26 21:40:15,3/23/26 21:42:19,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",10,2,4,0,2,12,3,,1
+22,3/23/26 21:40:29,3/23/26 21:42:46,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",10,5,3,2,3,7,2,,1
+23,3/23/26 22:03:05,3/23/26 22:04:47,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",24,3,2,0,3,10,2,,1
+24,3/24/26 16:02:39,3/24/26 16:03:53,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",24,1,1,46,3,20,1,,5
+25,3/24/26 16:31:07,3/24/26 16:31:53,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",12,5,3,23,1,0,0,,5
+26,3/24/26 16:28:23,3/24/26 16:32:37,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,5,5,3,5,2,2,,5
+27,3/24/26 16:33:21,3/24/26 16:33:57,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",30,4,4,10,3,0,0,Não,1
+28,3/24/26 16:46:40,3/24/26 16:48:43,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",14,4,4,5,3,5,7,Não,2
+29,3/24/26 16:35:40,3/24/26 17:41:16,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),4,1,3,1,5,15,0,Não,1
+30,3/24/26 17:42:19,3/24/26 17:43:41,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",14,4,4,6,4,35,4,Sim,4
+31,3/24/26 17:44:10,3/24/26 17:45:00,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,9,2,5,7,4,50,3,Sim,5
+32,3/24/26 19:04:48,3/24/26 19:05:44,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",30,5,3,9,3,20,6,Não,2
+33,3/24/26 19:05:52,3/24/26 19:06:27,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),20,3,5,10,3,18,6,Sim,5
+34,3/24/26 19:06:39,3/24/26 19:07:53,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,3,4,3,4,20,2,Sim,3
+35,3/24/26 19:07:59,3/24/26 19:08:36,anonymous,,,Estudante (já empregado na área),Autodidata (sem formação formal),24,1,5,12,2,10,5,Sim,5
+36,3/24/26 19:08:43,3/24/26 19:09:17,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),16,4,5,8,3,22,6,Sim,4
+37,3/24/26 19:10:13,3/24/26 19:10:45,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),3,1,2,0,5,10,0,Não,1
+38,3/24/26 19:10:47,3/24/26 19:11:18,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",10,4,3,4,4,28,3,Não,2
+39,3/24/26 19:11:20,3/24/26 19:11:48,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,11,2,5,9,4,55,4,Sim,5
+40,3/24/26 19:11:58,3/24/26 19:12:27,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",42,5,4,11,2,0,0,Sim,4
+41,3/24/26 19:12:29,3/24/26 19:12:59,anonymous,,,Estudante (buscando estágio/emprego),Misto (Faculdade + Bootcamp),13,3,5,6,4,35,2,Sim,3
+42,3/24/26 19:13:33,3/24/26 19:14:12,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",22,5,3,14,2,15,6,Sim,5
+43,3/24/26 19:33:33,3/24/26 19:34:11,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,3,4,10,4,10,3,Não,4
+44,3/24/26 19:34:15,3/24/26 19:35:20,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",13,4,5,5,4,9,1,Não,4
+45,3/24/26 19:33:35,3/24/26 19:59:32,anonymous,,,Formado (desempregado/buscando recolocação),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",50,4,3,20,5,80,10,Sim,3
+46,3/24/26 19:59:34,3/24/26 20:00:36,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",5,3,4,3,4,18,2,Sim,4
+47,3/24/26 20:00:38,3/24/26 20:01:10,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,8,2,4,5,5,65,5,Não,2
+48,3/24/26 20:01:12,3/24/26 20:01:40,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),19,4,5,9,3,20,7,Sim,5
+49,3/24/26 20:01:56,3/24/26 20:02:44,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,2,5,4,0,4,10,0,Sim,4
+50,3/24/26 20:02:26,3/24/26 20:02:52,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),6,1,3,2,5,25,1,Não,1
+51,3/24/26 20:02:55,3/24/26 20:03:48,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",60,5,4,15,2,0,0,Sim,4
+52,3/24/26 20:03:48,3/24/26 20:04:46,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),3,2,4,2,3,6,9,Não,4
+53,3/24/26 20:04:30,3/24/26 20:05:01,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",9,4,3,4,5,40,2,Não,2
+54,3/24/26 20:04:47,3/24/26 20:05:43,anonymous,,,Formado (empregado na área),Bootcamp / Curso Intensivo,4,5,5,25,4,40,6,Sim,5
+55,3/24/26 20:05:19,3/24/26 20:05:45,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),21,3,5,11,3,18,6,Sim,5
+56,3/24/26 20:05:52,3/24/26 20:06:23,anonymous,,,Formado (desempregado/buscando recolocação),Misto (Faculdade + Bootcamp),7,3,1,45,2,7,9,Sim,3
+57,3/24/26 20:05:47,3/24/26 20:06:30,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),2,1,2,1,5,3,0,Não,1
+58,3/24/26 20:06:32,3/24/26 20:06:49,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",11,4,4,5,4,30,3,Sim,4
+59,3/24/26 20:06:25,3/24/26 20:07:14,anonymous,,,Formado (empregado na área),Autodidata (sem formação formal),6,4,2,4,3,7,1,Sim,4
+60,3/24/26 20:06:51,3/24/26 20:07:17,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,9,2,5,8,4,50,4,Sim,5
+61,3/24/26 20:07:20,3/24/26 20:07:46,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",48,5,4,13,2,10,5,Sim,4
+62,3/24/26 20:07:26,3/24/26 20:08:01,anonymous,,,Estudante (já empregado na área),Bootcamp / Curso Intensivo,5,3,5,4,3,8,8,Sim,5
+63,3/24/26 20:07:56,3/24/26 20:08:23,anonymous,,,Estudante (buscando estágio/emprego),Misto (Faculdade + Bootcamp),14,3,5,6,5,45,2,Não,2
+64,3/24/26 20:08:03,3/24/26 20:09:20,anonymous,,,Formado (desempregado/buscando recolocação),Misto (Faculdade + Bootcamp),4,3,3,8,5,6,7,Sim,3
+65,3/24/26 20:08:24,3/24/26 20:09:27,anonymous,,,Estudante (já empregado na área),Autodidata (sem formação formal),26,1,5,12,2,14,2,Sim,5
+66,3/24/26 20:09:22,3/24/26 20:10:03,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",1,2,5,0,2,9,7,Sim,5
+67,3/24/26 20:09:37,3/24/26 20:11:32,anonymous,,,Formado (desempregado/buscando recolocação),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",52,4,3,20,5,40,10,Não,1
+68,3/24/26 20:10:05,3/24/26 20:11:39,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,5,2,4,4,5,2,Não,3
+69,3/24/26 20:11:34,3/24/26 20:11:57,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,3,4,3,4,22,2,Sim,4
+70,3/24/26 20:12:18,3/24/26 20:13:00,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),6,4,3,76,4,3,6,Sim,3
+71,3/24/26 20:12:51,3/24/26 20:13:59,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,7,2,4,5,5,70,3,Não,2
+72,3/24/26 20:14:40,3/24/26 20:15:13,anonymous,,,Estudante (buscando estágio/emprego),Misto (Faculdade + Bootcamp),18,5,3,9,3,20,6,Sim,5
+73,3/24/26 20:15:18,3/24/26 20:15:33,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),3,5,4,4,3,3,3,Sim,5
+74,3/24/26 20:15:35,3/24/26 20:15:49,anonymous,,,Formado (desempregado/buscando recolocação),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,3,4,4,2,4,3,Sim,3
+75,3/24/26 20:15:36,3/24/26 20:16:01,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),5,1,3,2,5,28,1,Não,1
+76,3/24/26 20:15:51,3/24/26 20:16:02,anonymous,,,Estudante (já empregado na área),Bootcamp / Curso Intensivo,4,3,2,4,5,3,4,Sim,5
+77,3/24/26 20:16:03,3/24/26 20:16:15,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,4,4,5,3,5,5,Sim,4
+78,3/24/26 20:16:18,3/24/26 20:16:29,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",5,3,3,5,3,4,4,Sim,4
+79,3/24/26 20:16:05,3/24/26 20:16:32,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",72,5,4,16,2,0,0,Sim,4
+80,3/24/26 20:14:41,3/24/26 20:16:48,anonymous,,,Estudante (já empregado na área),Bootcamp / Curso Intensivo,2,4,3,35,2,3,1,Sim,5
+81,3/24/26 20:16:34,3/24/26 20:16:55,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",8,4,3,4,5,38,2,Não,2
+82,3/24/26 20:17:02,3/24/26 20:17:13,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,5,5,3,5,4,4,Sim,4
+83,3/24/26 20:17:14,3/24/26 20:17:29,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,3,3,5,4,3,3,Sim,4
+84,3/24/26 20:16:57,3/24/26 20:17:32,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),23,4,4,11,3,17,6,Sim,5
+85,3/24/26 20:17:34,3/24/26 20:18:05,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,6,2,4,3,5,35,0,Não,2
+86,3/24/26 20:17:56,3/24/26 20:18:10,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",5,5,5,4,5,4,4,Sim,5
+87,3/24/26 20:18:11,3/24/26 20:18:29,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",5,5,4,4,5,4,3,Sim,5
+88,3/24/26 20:18:07,3/24/26 20:18:37,anonymous,,,Estudante (buscando estágio/emprego),Autodidata (sem formação formal),28,1,5,14,2,12,5,Sim,5
+89,3/24/26 20:18:30,3/24/26 20:18:41,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,5,5,4,4,4,4,Sim,5
+90,3/24/26 20:18:42,3/24/26 20:18:54,anonymous,,,Formado (desempregado/buscando recolocação),Misto (Faculdade + Bootcamp),4,4,4,4,4,3,5,Sim,5
+91,3/24/26 20:18:39,3/24/26 20:19:04,anonymous,,,Formado (desempregado/buscando recolocação),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",55,4,3,8,5,85,6,Não,1
+92,3/24/26 20:19:51,3/24/26 20:20:05,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,4,4,3,4,4,4,Sim,4
+93,3/24/26 20:20:06,3/24/26 20:20:17,anonymous,,,Formado (empregado na área),Bootcamp / Curso Intensivo,5,5,5,4,4,3,3,Sim,5
+94,3/24/26 20:19:34,3/24/26 20:20:25,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",7,5,3,3,4,24,2,Sim,4
+95,3/24/26 20:20:18,3/24/26 20:20:32,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",3,5,5,4,5,5,3,Sim,4
+96,3/24/26 20:20:33,3/24/26 20:20:44,anonymous,,,Formado (desempregado/buscando recolocação),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,2,3,4,5,3,3,Sim,5
+97,3/24/26 20:20:29,3/24/26 20:20:52,anonymous,,,Estudante (já empregado na área),Misto (Faculdade + Bootcamp),17,4,5,8,3,19,6,Sim,4
+98,3/24/26 20:20:47,3/24/26 20:21:04,anonymous,,,Estudante (já empregado na área),Bootcamp / Curso Intensivo,4,5,4,5,4,4,5,Sim,4
+99,3/24/26 20:21:07,3/24/26 20:21:19,anonymous,,,Formado (empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",4,4,4,5,3,5,4,Sim,5
+100,3/24/26 20:20:55,3/24/26 20:21:23,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",22,4,4,9,3,16,5,Sim,4
+101,3/24/26 20:21:22,3/24/26 20:21:32,anonymous,,,Estudante (buscando estágio/emprego),Bootcamp / Curso Intensivo,4,4,5,4,5,5,5,Sim,5
+102,3/24/26 20:21:34,3/24/26 20:21:47,anonymous,,,Estudante (já empregado na área),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",5,4,4,4,3,3,2,Sim,4
+103,3/24/26 20:21:25,3/24/26 20:22:00,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",6,3,4,4,4,26,2,Não,2
+104,3/25/26 12:55:08,3/25/26 12:56:14,anonymous,,,Estudante (buscando estágio/emprego),"Faculdade (Ciência da Computação, SI, Eng. Software, etc.)",2,3,4,3,4,7,2,Não,1

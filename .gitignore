@@ -1,0 +1,21 @@
+# 🐍 Python Virtual Environments
+.venv/
+venv/
+env/
+.env/
+
+# 💾 Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Distribuição/Build (opcional, mas recomendado)
+dist/
+build/
+*.egg-info/
+
+# 🖥️ IDEs & Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
